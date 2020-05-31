@@ -2,7 +2,7 @@
 
 Traefik is included as part of the services of K3S, so you dont need any extra installation
 
-### Note: download the yaml files instead of typing, look under code.
+### https://youtu.be/QcC-5fRhsM8
 
 ## Deploying a simple website
 To make this deployment you will need to be familiar with YAML. YAML configuration files are used, and that is what we will use in this article. We will start at the top and create our configuration files in a top-down approach.
