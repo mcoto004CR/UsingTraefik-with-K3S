@@ -262,4 +262,4 @@ Now we can deploy like we did before:
 
     kubectl apply -f myseocond.yaml
     
-And now, my dog’s message should be available at http://kmaster/mysecond/
+And now, my second’s message should be available at http://kmaster/mysecond/
